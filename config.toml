@@ -4,7 +4,7 @@ author = "Sabir ABIDI"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
-
+disableKinds = ["taxonomy","taxonomyTerm"]
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
