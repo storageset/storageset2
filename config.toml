@@ -1,9 +1,10 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://storageset.github.io/storageset2/"
 title = "STORAGESET"
 author = "Sabir ABIDI"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
+publishDir = "Docs"
 disableKinds = ["taxonomy","taxonomyTerm"]
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
