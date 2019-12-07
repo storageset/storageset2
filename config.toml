@@ -1,4 +1,4 @@
-baseurl = "https://storageset.github.io/storageset2/"
+baseurl = "https://storageset.github.io/"
 title = "STORAGESET"
 author = "Sabir ABIDI"
 canonifyurls = true
